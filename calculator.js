@@ -2,4 +2,4 @@
 const add = (a, b) => a + b;
 const subtract = (a, b) => a - b;
 const multiply = (a, b) => a * b;
-const divide_premium = (a, b) => a - b;
+const divide_new = (a, b) => a / b;
