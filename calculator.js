@@ -11,3 +11,4 @@ const get_Abs = (num) => {
   }
   return -num;
 };
+const get_Percent = (a, b) => (a / b) * 100;
