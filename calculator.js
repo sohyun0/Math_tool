@@ -4,3 +4,4 @@ const subtract = (a, b) => a - b;
 const multiply = (a, b) => a * b;
 const divide_new = (a, b) => a / b;
 const get_Median = (a, b) => (a * b) / 2;
+const get_Remainder = (a, b) => a / b;
